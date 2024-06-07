@@ -17,13 +17,16 @@
 }
 .login-container{
     display: inline-flex;
-    margin-block: 5px;
-}   
+} 
+.sign-head{
+    width: 100%;
+    height:auto;
+} 
 .login-form{ 
      background: white;
-     width:600px;
+     width:650px;
      height:550px;
-     padding-inline: 100px;
+     padding-inline: 125px;
 }
 .main-element{
      margin-left:40px;  
@@ -190,7 +193,7 @@
 } 
 .chart{
     background:rgb(104,65,218);
-    width:490px;
+    width:630px;
     height: 550px;
 }
 .chart h1{
@@ -199,14 +202,14 @@
     font-weight: 600;
     position: relative;
     top:80px;
-    left:130px;
+    left:200px;
 }
 .text p{
     color:rgb(236,236,243);
     font-size: 10px;
     position: relative;
     top: 100px;
-    left:130px;
+    left:200px;
     line-height: 16px;
 }
 #com{
@@ -221,7 +224,7 @@
     color:white;
     position:relative;
     top:150px;
-    left:160px;
+    left:235px;
     font-size: 20px;
     font-weight: 600;
     font-family: 'regularfont';
@@ -236,14 +239,14 @@
     font-size: 10px;
     position: relative;
     top:175px;
-    left:180px;
+    left:250px;
 }
 .chart img{
     width:130px;
     height:130px;
     position: relative;
-    top:120px;
-    left:180px;
+    top:130px;
+    left:250px;
 }
 
   
