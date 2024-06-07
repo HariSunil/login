@@ -75,10 +75,10 @@
     content:" ";
     display: block;
     height: 1px;
-    width: 110px;
+    width: 80px;
     position: absolute;
     top:45%;
-    left: 0;
+    left: 30px;
     background: black;
     opacity: 0.3;
   }
@@ -92,12 +92,12 @@
   .hr-lines:after{
     content:" ";
     height: 1px;
-    width: 110px;
+    width: 100px;
     background: black;
     display: block;
     position: absolute;
     top: 45%;
-    right: 0;
+    right: 10px;
     opacity: 0.3;
   }
   .s_form input[type=text]{
@@ -200,14 +200,14 @@
     font-weight: 600;
     position: relative;
     top:80px;
-    left:100px;
+    left:130px;
 }
 .text p{
     color:rgb(236,236,243);
     font-size: 10px;
     position: relative;
     top: 100px;
-    left:100px;
+    left:130px;
     line-height: 16px;
 }
 #com{
@@ -222,7 +222,7 @@
     color:white;
     position:relative;
     top:220px;
-    left:130px;
+    left:150px;
     font-size: 20px;
     font-weight: 600;
     font-family: 'regularfont';
@@ -237,14 +237,14 @@
     font-size: 10px;
     position: absolute;
     top:520px;
-    left:146px;
+    left:180px;
 }
 .chart img{
     width:130px;
     height:130px;
     position: relative;
     top:180px;
-    left:150px;
+    left:180px;
 }
 
   
