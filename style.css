@@ -187,15 +187,12 @@
 }
 .rights p{
      font-size: 8px;
-     margin-top: 70px;
+     margin-top: 90px;
 } 
 .chart{
     background:rgb(104,65,218);
     width:500px;
     height: 550px;
-    /* box-shadow: 2px 2px 0px 0px gray; */
-    /* border-top-right-radius: 5px; */
-    /* border-bottom-right-radius: 5px; */
 }
 .chart h1{
     color:white;
